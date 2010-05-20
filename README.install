@@ -1,0 +1,10 @@
+perl Makefile.PL
+make test
+make install
+
+
+
+# If you want to simply install the colorscheme in t/lscolors.source
+
+# cat t/lscolor.source |  lscolors --as-code >> ~/.bashrc
+

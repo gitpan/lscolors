@@ -1,0 +1,12 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+README.install
+README.updatefromtest
+bin/lscolors
+t/00.t
+t/lscolor.auto.sh
+t/lscolor.output
+t/lscolor.source
+META.yml                                 Module meta-data (added by MakeMaker)

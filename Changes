@@ -1,0 +1,14 @@
+2010-05-17 14:59  cvs
+
+	* bin/lscolors: added option to spit out as .bashrc line
+
+2010-05-17 13:23  cvs
+
+	* Makefile.PL, bin/lscolors: Major change.  Took out old perl
+	  script, using a simple unix filter to convert from and to a human
+	  legible LS_COLORS string.
+
+2009-11-20 17:51  cvs
+
+	* MANIFEST, bin/lscolors: Initial revision
+

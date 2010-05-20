@@ -1,0 +1,13 @@
+
+
+
+# If you want to try out the test included..
+# Make the changes you want to t/lscolors.source
+
+# And then issue the command:
+
+cat t/lscolor.source | ./bin/lscolors --as-code > t/lscolor.output
+. t/lscolor.output
+ls ./ ./t/ ./bin/
+
+
